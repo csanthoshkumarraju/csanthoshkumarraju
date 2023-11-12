@@ -14,6 +14,9 @@
 - 📫 How to reach me **cskraju07@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chiluru-santhosh-kumar-raju-61ba1421a/](https://www.linkedin.com/in/chiluru-santhosh-kumar-raju-61ba1421a/)
+- I have developed a website in Codepen. Can you please look into it? -> https://codepen.io/CSKRaju/pen/WNYvEzY
+- I have solved the problems on HackerRank. Can you please visit my profile? -> https://www.hackerrank.com/profile/cskraju07
+- I have solved the problems on Leetcode. Can you please visit my profile?-> https://leetcode.com/csanthoshkumarraju/
 
 - ⚡ Fun fact **I am Funny**
 
